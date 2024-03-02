@@ -1,4 +1,4 @@
 # Residence and Site Fidelity Assessments on Simulated Data
 
 
-Various residence and site fidelity indices employed in different dolphin species, as reported in the literature through simulated capture-recapture scenarios, are evaluated to assess the sensitivity of these indices to changes in recapture and survival probabilities.
+It is evaluated through simulated capture-recapture data, various residence indices, and site fidelity employed in different dolphin species reported in the literature, to assess the sensitivity of these indices to changes in recapture probabilities and survival.
